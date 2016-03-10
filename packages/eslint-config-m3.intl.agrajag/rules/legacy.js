@@ -1,6 +1,6 @@
 module.exports = {
   rules: {
-    'comma-dangle': [2, 'always'],
+    'comma-dangle': [2, 'only-multiline'],
     eqeqeq: [2, 'smart'],
     'func-names': [0],
     'id-length': [0],
