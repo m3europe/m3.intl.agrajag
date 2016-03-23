@@ -7,6 +7,7 @@ module.exports = {
       nonEmpty: 'after-props',
       selfClosing: 'after-props',
     }],
+    'react/prefer-stateless-function': [0],
 
     // Because sometimes things just shouldn't be allowed
     'react/prefer-es6-class': [2, 'never'],
