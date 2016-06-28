@@ -9,7 +9,7 @@ module.exports = {
     }],
     'react/prefer-stateless-function': [0],
 
-    // Because sometimes things just shouldn't be allowed
-    'react/prefer-es6-class': [2, 'never'],
+    // Because sometimes you just have to follow the crowd
+    'react/prefer-es6-class': [2, 'always'],
   },
 };

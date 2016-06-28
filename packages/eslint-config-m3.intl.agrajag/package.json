@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-m3.intl.agrajag",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "M3 Linting Rules",
   "main": "index.js",
   "scripts": {
